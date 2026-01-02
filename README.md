@@ -43,7 +43,7 @@ All data is processed using Power BI’s **Power Query** to ensure consistency a
 
 ## Screenshot
 
-Dashboard Preview - https://github.com/sakshamkatiyar1/Blinkit-Grocery-Dashboard--Power-BI/blob/main/Blinkit%20Dashboard%20Screenshot%20-%20Power%20BI.png
+Dashboard Preview - (https://github.com/sakshamkatiyar1/Blinkit-Grocery-Dashboard--Power-BI/blob/main/Blinkit%20Dashboard%20Screenshot%20-%20Power%20BI.png)
 
 
 
