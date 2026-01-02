@@ -1,7 +1,7 @@
 # Blinkit-Grocery-Dashboard--Power-BI
 # Retail Sales & Outlet Analytics Dashboard
 
-## Description
+## Project Description
 An interactive Power BI dashboard built to visualize and analyze retail sales performance, outlet trends, item insights, and customer feedback metrics using real-world styled business data.
 
 ## Purpose
@@ -42,6 +42,8 @@ The dashboard is built using structured **Excel files** exported from Blinkit’
 All data is processed using Power BI’s **Power Query** to ensure consistency and accuracy before being used in visuals and calculations.
 
 ## Screenshot
+
+Dashboard Preview - https://github.com/sakshamkatiyar1/Blinkit-Grocery-Dashboard--Power-BI/blob/main/Blinkit%20Dashboard%20Screenshot%20-%20Power%20BI.png
 
 
 
