@@ -27,7 +27,7 @@ This project is designed to help stakeholders quickly understand key business me
 - Power Query - (Cleab Data)
 - Data Modeling
 - DAX (Data Analysis Expressions)
-- CSV / Excel
+- Excel
 - Git & GitHub
 
 ## Data Source
@@ -35,7 +35,6 @@ This project is designed to help stakeholders quickly understand key business me
 The dashboard is built using structured **Excel files** exported from Blinkit’s internal business systems. These files contain the transactional sales records, outlet details, product information, and customer rating data required to generate insights in the dashboard.
 
 - **Format:** Excel Workbook (`.xlsx`)  
-- **Location in Repo (example):** `data/blinkit_sales_data.xlsx`
 - **Imported via:** Power BI’s *Get Data → Excel*
 - **Prepared using:** Power Query (for cleaning, transforming, and shaping data)
 
